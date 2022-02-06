@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anjan
-- 👀 I’m interested in programming languages like C, C++, Java, Bash
+- 👀 I’m interested in programming languages like Python, C, C++, Java, Bash, VB.Net
 - 🌱 I have completed my Graduation(BSc) with the subjects --> Computer Science, Electronics & Mathematics.
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can contact with me by send mail: anjandas652@gmail.com
