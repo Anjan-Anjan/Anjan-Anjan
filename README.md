@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anjan
-- 👀 I’m interested in programming languages like Python, C, C++, Java, Bash, VB.Net
+- 👀 I’m interested in programming languages like Python, C, C++, Java, Bash, VB.Net, PL-SQL etc.
 - 🌱 I have completed my Graduation(BSc) from Calcutta University with the subjects --> Computer Science, Electronics & Mathematics.
-- 💞️ I’m looking for an internship /apprenticeship or a Job
+- 💞️ Love to learn new things
 - 🏆 CodeChef => https://www.codechef.com/users/anjan652
 
 <!---
